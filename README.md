@@ -14,3 +14,4 @@ Task 02:
 Create a function in num.js that takes an object and returns the keys and values as separate arrays.
 
 Note:Remember to sort the keys.
+example => ➞ [["a", "b", "c"], ["Apple", "Microsoft", "Google"]]
