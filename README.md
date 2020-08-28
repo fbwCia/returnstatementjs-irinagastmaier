@@ -11,4 +11,6 @@ losses get 0 points
 <!-- The second Task -->
 Task 02:
 
-Create a function in num.js which returns the number of true values there are in an array.
+Create a function in num.js that takes an object and returns the keys and values as separate arrays.
+
+Note:Remember to sort the keys.
