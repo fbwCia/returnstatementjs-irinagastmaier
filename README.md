@@ -11,7 +11,7 @@ Create a function in football.js file that takes the number of wins, draws and l
 
 
 <!-- The second Task -->
-Task 02:
+Task 02(BONUS):
 
 Create a function in num.js that takes an object and returns the keys and values as separate arrays.
 Note:Remember to sort the keys.
@@ -30,6 +30,6 @@ Erstellen Sie eine Funktion in der football.js Datei, die die Anzahl der Siege, 
 
 
 <!-- Die zweite Aufgabe -->
-Aufgabe-02:
+Aufgabe-02(BONUS):
 Erstellen Sie in num.js eine Funktion, die ein Objekt übernimmt und die Schlüssel und Werte als separate Arrays zurückgibt.
 Hinweis: Denken Sie daran, die Schlüssel zu sortieren.
