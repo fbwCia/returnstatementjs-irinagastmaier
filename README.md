@@ -14,7 +14,7 @@ Create a function in football.js file that takes the number of wins, draws and l
 <!-- The second Task -->
 Task 02(BONUS):
 
-Create a function in num.js that takes an array of numbers and return both the minimum and maximum numbers, in that order.
+Create a function in num.js that takes an array of numbers and return both the minimum(lowest) and maximum(highest) numbers, in that order.
 
 
 
